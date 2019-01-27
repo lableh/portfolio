@@ -7,12 +7,12 @@
 
 @font-face{
     font-family: 'Bebas';
-    src: url('fonts/BebasNeue-Regular.ttf') format('truetype');
+    src: url('BebasNeue-Regular.ttf') format('truetype');
 }
 
 @font-face{
     font-family: 'Mont';
-    src: url('fonts/Montserrat-Regular.otf') format('opentype');
+    src: url('Montserrat-Regular.otf') format('opentype');
 }
 
 .font{
