@@ -81,7 +81,7 @@ body, html {
     color: #aec6cf;
 }
 
-a {
+/* a {
 	font-family: Poppins-Regular;
 	font-size: 14px;
 	line-height: 1.7;
@@ -99,7 +99,7 @@ a:focus {
 
 a:hover {
 	text-decoration: none;
-}
+} */
 
 /*---------------------------------------------*/
 h1,h2,h3,h4,h5,h6 {
