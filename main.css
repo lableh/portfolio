@@ -48,6 +48,39 @@ body, html {
 }
 
 /*---------------------------------------------*/
+
+# Main Menu
+--------------------------------*/
+.main-menu {
+    padding: 15px 30px;
+    margin: 0;
+}
+
+.main-menu li {
+    display: block;
+    padding: 5px 0;
+    font-family: 'Mont';
+    font-size: 18px;
+    font-weight: 500;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.main-menu li:nth-last-of-type(1) {
+    border-bottom: 0;
+}
+
+.main-menu li a {
+    display: block;
+    color: #a6a6a6;
+    text-decoration: none;
+    transition: all 0.35s;
+}
+
+.main-menu li a:hover,
+.main-menu li.current-menu-item a {
+    color: #aec6cf;
+}
+
 a {
 	font-family: Poppins-Regular;
 	font-size: 14px;
