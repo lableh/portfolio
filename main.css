@@ -32,6 +32,11 @@
     src: url('Montserrat-Bold.ttf') format('truetype');
 }
 
+@font-face{
+    font-family: 'GothamBlackRegular';
+    src: url('GothamBlackRegular.ttf') format('truetype');
+}
+
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
