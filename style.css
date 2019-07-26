@@ -15,8 +15,13 @@
     src: url('Montserrat-Regular.otf') format('opentype');
 }
 
+@font-face{
+    font-family: 'GothamBlackRegular';
+    src: url('GothamBlackRegular.ttf') format('truetype');
+}
+
 .font{
-    font-family: 'Bebas';
+    font-family: 'GothamBlackRegular';
 }
 
 .cto{
