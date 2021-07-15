@@ -558,5 +558,9 @@ textarea.input100 {
   }
 }
 
+.portfolio-content {
+  box-shadow: 5px 10 px #000000;
+}
+
 
 
