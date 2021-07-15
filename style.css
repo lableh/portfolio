@@ -486,6 +486,7 @@ a:hover, a:active {
 
 .portfolio-content figure {
     margin: 0;
+    box-shadow: 5px 10px #000000;
 }
 
 .portfolio-content figure img {
