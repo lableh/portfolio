@@ -427,7 +427,7 @@ a:hover, a:active {
     .hamburger-menu .menu-close-icon {
         position: absolute;
         top: calc(50vh - 22px);
-        left: 15px;
+        left: -20px;
         width: calc(100% - 30px);
         padding: 10px 0;
     }
