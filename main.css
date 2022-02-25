@@ -39,17 +39,17 @@
 
 @font-face{
     font-family: 'FaktProBlack';
-    src: url('FaktProBlack.otf') format('truetype');
+    src: url('FaktProBlack.otf') format('opentype');
 }
 
 @font-face{
     font-family: 'FaktProBold';
-    src: url('FaktProBold.otf') format('truetype');
+    src: url('FaktProBold.otf') format('opentype');
 }
 
 @font-face{
     font-family: 'FaktProLight';
-    src: url('FaktProLight.otf') format('truetype');
+    src: url('FaktProLight.otf') format('opentype');
 }
 
 
