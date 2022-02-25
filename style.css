@@ -20,6 +20,21 @@
     src: url('GothamBlackRegular.ttf') format('truetype');
 }
 
+@font-face{
+    font-family: 'FaktProBlack';
+    src: url('FaktProBlack.otf') format('opentype');
+}
+
+@font-face{
+    font-family: 'FaktProBold';
+    src: url('FaktProBold.otf') format('opentype');
+}
+
+@font-face{
+    font-family: 'FaktProLight';
+    src: url('FaktProLight.otf') format('opentype');
+}
+
 .font{
     font-family: 'GothamBlackRegular';
     color: #38627C;
@@ -245,7 +260,7 @@ a:hover, a:active {
 .main-menu li {
     display: block;
     padding: 5px 0;
-    font-family: 'Mont';
+    font-family: 'FaktProLight';
     font-size: 18px;
     font-weight: 500;
     border-bottom: 1px solid #ebebeb;
@@ -264,7 +279,7 @@ a:hover, a:active {
 
 .main-menu li a:hover,
 .main-menu li.current-menu-item a {
-    color: #aec6cf;
+    color: #9beacc;
 }
 
 /*
@@ -682,7 +697,7 @@ a:hover, a:active {
 --------------------------------*/
 .single-portfolio .entry-meta {
     margin-top: 24px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'FaktProLight', sans-serif;
 }
 
 .single-portfolio .entry-meta label {
@@ -739,7 +754,7 @@ a:hover, a:active {
 --------------------------------------------------------------*/
 .blog-page {
     padding-top: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'FaktProLight', sans-serif;
 }
 
 .blog-page .blog-content figure,
@@ -892,7 +907,7 @@ a:hover, a:active {
 .single-post,
 .single-page {
     padding-bottom: 70px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'FaktProLight', sans-serif;
 }
 
 /*
