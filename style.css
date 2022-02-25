@@ -6,6 +6,11 @@
 }
 
 @font-face{
+    font-family: 'MikelaLight';
+    src: url('MikelaLight.ttf') format('truetype');
+}
+
+@font-face{
     font-family: 'Bebas';
     src: url('BebasNeue-Regular.ttf') format('truetype');
 }
@@ -36,7 +41,7 @@
 }
 
 .font{
-    font-family: 'GothamBlackRegular';
+    font-family: 'MikelaLight';
     color: #38627C;
 }
 
