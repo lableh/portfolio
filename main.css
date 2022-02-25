@@ -37,6 +37,21 @@
     src: url('GothamBlackRegular.ttf') format('truetype');
 }
 
+@font-face{
+    font-family: 'FaktProBlack';
+    src: url('FaktProBlack.otf') format('truetype');
+}
+
+@font-face{
+    font-family: 'FaktProBold';
+    src: url('FaktProBold.otf') format('truetype');
+}
+
+@font-face{
+    font-family: 'FaktProLight';
+    src: url('FaktProLight.otf') format('truetype');
+}
+
 
 /*//////////////////////////////////////////////////////////////////
 [ RESTYLE TAG ]*/
@@ -83,7 +98,7 @@ body, html {
 
 .main-menu li a:hover,
 .main-menu li.current-menu-item a {
-    color: #aec6cf;
+    color: #9beacc;
 }
 
 /* a {
