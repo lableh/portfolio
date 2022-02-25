@@ -122,6 +122,7 @@
   position: absolute;
   top: 15px;
   right: 35px;
+  left: 15px;
   color: #f1f1f1;
   font-size: 40px;
   font-weight: bold;
@@ -427,7 +428,7 @@ a:hover, a:active {
     .hamburger-menu .menu-close-icon {
         position: absolute;
         top: calc(50vh - 22px);
-        left: -20px;
+        left: 13px;
         width: calc(100% - 30px);
         padding: 10px 0;
     }
